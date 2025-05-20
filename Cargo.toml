@@ -8,5 +8,5 @@ edition = "2021"
 [dependencies]
 piston = "1.0.0"
 piston2d-graphics = "0.45.0"
-piston_window = "0.120.0"
-rand = "0.7.3"
+piston_window = "0.132.0"
+rand = "0.9.1"
